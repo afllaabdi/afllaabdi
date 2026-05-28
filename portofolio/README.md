@@ -64,7 +64,7 @@ portofolio/
 | Platform | Link |
 |----------|------|
 | GitHub | [github.com/afllaabdi](https://github.com/afllaabdi) |
-| TikTok | [@Gadgetkuy](https://tiktok.com/) |
+| TikTok | [](https://tiktok.com/) |
 | Email | aflaah@example.com |
 
 ---
