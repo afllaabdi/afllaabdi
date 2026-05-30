@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/afllaabdi/afllaabdi/blob/main/rflash.mp4" width="100%">
+  <video src="https://raw.githubusercontent.com/afllaabdi/afllaabdi/main/rflash.mp4" width="100%" controls autoplay loop muted></video>
 </p>
 
 ---
