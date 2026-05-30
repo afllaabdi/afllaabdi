@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afllaabdi/afllaabdi/main/rflash.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/afllaabdi/afllaabdi/main/rflash.gif" width=700>
 </p>
 
 ---
