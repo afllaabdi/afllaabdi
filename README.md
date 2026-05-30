@@ -41,8 +41,6 @@ Real-time sign language translation using MediaPipe and Computer Vision.
 
 `Python` `OpenCV` `MediaPipe` `TensorFlow`
 
-[View Project](https://github.com/afllaabdi/Motion-Capture-Sign-Language-Translation)
-
 ### Computer Vision Experiments
 
 Deep learning-powered visual recognition systems.
