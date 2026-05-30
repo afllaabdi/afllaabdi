@@ -4,13 +4,6 @@
 
 <div align="center">
 
-# ⚡ < typewriter > ⚡
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&size=30&width=500&lines=Data%20Science%20Student,Machine%20Learning%20Engineer,Computer%20Vision%20Developer,AI%20Enthusiast,The%20Fastest%20Debugger%20Alive%20%E2%9A%A1&center=true&vSpacing=20&height=120)
-
-</div>
-
----
 
 ## 🔴 About Me
 
